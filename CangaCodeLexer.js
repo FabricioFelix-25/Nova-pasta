@@ -132,5 +132,4 @@ class CangaCodeLexer {
     }
 }
 
-
 module.exports = CangaCodeLexer;

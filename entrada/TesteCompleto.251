@@ -8,6 +8,7 @@ DECLARATIONS
     VARTYPE BOOLEAN: eh_valido;
     VARTYPE CHARACTER: inicial;
 
+
     /* Testando declaração de vetores (arrays)
        e vários tipos de comentários. */
     VARTYPE INTEGER []: notas;

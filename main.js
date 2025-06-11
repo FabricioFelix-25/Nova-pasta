@@ -61,5 +61,4 @@ function main() {
         console.error(`❌ Erro ao processar o arquivo: ${error.message}`);
     }
 }
-
 main(); 
