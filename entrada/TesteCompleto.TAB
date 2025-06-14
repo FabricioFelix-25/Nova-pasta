@@ -1,0 +1,24 @@
+Código da Equipe: EQ06
+Componentes:
+Carlos Artur Couto Marques; carlos.marques@ucsal.edu.br; (71) 8765-8226
+Fabricio Maicon Felix Santos; fabriciomaicon.santos@ucsal.edu.br; (71) 997156606
+Lucas Nascimento Alves; lucas.alves@ucsal.edu.br; (74) 9998-7422
+Nicolas Raimundo Menezes de Araújo; nicolas.araujo@ucsal.edu.br; (71) 9987-9517
+
+RELATÓRIO DA TABELA DE SÍMBOLOS
+Texto fonte analisado: TesteCompleto.251
+
+Entrada: 1, Codigo: IDN02, Lexeme: TESTE_COMPLETO, QtdCharAntesTrunc: 14, QtdCharDepoisTrunc: 14, TipoSimb: N/D, Linhas: (1)
+Entrada: 2, Codigo: IDN02, Lexeme: ARTYPE, QtdCharAntesTrunc: 6, QtdCharDepoisTrunc: 6, TipoSimb: N/D, Linhas: (6)
+Entrada: 3, Codigo: IDN02, Lexeme: SALARIO, QtdCharAntesTrunc: 7, QtdCharDepoisTrunc: 7, TipoSimb: N/D, Linhas: (6)
+Entrada: 4, Codigo: IDN02, Lexeme: IMPOSTO_RENDA, QtdCharAntesTrunc: 13, QtdCharDepoisTrunc: 13, TipoSimb: N/D, Linhas: (6)
+Entrada: 5, Codigo: IDN02, Lexeme: NOME_COMPLETO, QtdCharAntesTrunc: 13, QtdCharDepoisTrunc: 13, TipoSimb: N/D, Linhas: (7)
+Entrada: 6, Codigo: IDN02, Lexeme: ENDERECO, QtdCharAntesTrunc: 8, QtdCharDepoisTrunc: 8, TipoSimb: N/D, Linhas: (7)
+Entrada: 7, Codigo: IDN02, Lexeme: EH_VALIDO, QtdCharAntesTrunc: 9, QtdCharDepoisTrunc: 9, TipoSimb: N/D, Linhas: (8)
+Entrada: 8, Codigo: IDN02, Lexeme: INICIAL, QtdCharAntesTrunc: 7, QtdCharDepoisTrunc: 7, TipoSimb: N/D, Linhas: (9)
+Entrada: 9, Codigo: IDN02, Lexeme: OR, QtdCharAntesTrunc: 2, QtdCharDepoisTrunc: 2, TipoSimb: N/D, Linhas: (46)
+Entrada: 10, Codigo: IDN02, Lexeme: CONTADOR, QtdCharAntesTrunc: 8, QtdCharDepoisTrunc: 8, TipoSimb: N/D, Linhas: (47)
+Entrada: 11, Codigo: IDN04, Lexeme: 1, QtdCharAntesTrunc: 1, QtdCharDepoisTrunc: 1, TipoSimb: N/D, Linhas: (47)
+Entrada: 12, Codigo: IDN02, Lexeme: INVALID, QtdCharAntesTrunc: 7, QtdCharDepoisTrunc: 7, TipoSimb: N/D, Linhas: (48)
+Entrada: 13, Codigo: IDN02, Lexeme: CHAR, QtdCharAntesTrunc: 4, QtdCharDepoisTrunc: 4, TipoSimb: N/D, Linhas: (48)
+Entrada: 14, Codigo: IDN02, Lexeme: AQUI, QtdCharAntesTrunc: 4, QtdCharDepoisTrunc: 4, TipoSimb: N/D, Linhas: (48)
