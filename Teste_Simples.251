@@ -1,0 +1,10 @@
+PROGRAM Teste_Simples;
+DECLARATIONS
+    VARTYPE INTEGER: a;
+    VARTYPE BOOLEAN: flg;
+    VARTYPE CHARACTER: ch;
+ENDDECLARATIONS
+
+a := 42;
+flg := TRUE;
+ch := 'Z';
